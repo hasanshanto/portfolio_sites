@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hasanshanto.github.io/portfolio_sites/sitemap.xml
+Sitemap: https://hasanshanto.github.io/sitemap.xml
